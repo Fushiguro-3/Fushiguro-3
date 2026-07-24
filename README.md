@@ -65,10 +65,10 @@ public class Vandana {
 
 ## let's connect
 
-<a href="YOUR_LINKEDIN">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/sahavandana/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ervandana43@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
