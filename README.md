@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm vandana 👋
+# Heyy, I'm Vandana 👋
 
 ### building products, solving problems, and occasionally breaking them.
 
