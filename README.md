@@ -1,54 +1,42 @@
-<div align="center">
+────────────────────────────────────────────
 
-# Heyy, I'm Vandana 👋
+            Heyyy, I'm Vandana 👋
 
-building things that solve real problems.
+      building products, solving problems,
+          and occasionally breaking them.
 
-backend • full-stack • ai/ml
+     backend • full-stack • ai/ml
 
-</div>
+────────────────────────────────────────────
 
----
+currently
 
-## currently
+☕ Software Engineering Intern
+🧠 Solving LeetCode
+🚀 Building scalable backend systems
+📚 Learning System Design & AWS
 
-- ☕ building scalable backend apps with Java & Spring Boot
-- 🧠 grinding LeetCode
-- 🚀 exploring cloud & system design
-- 💡 shipping projects
+tech
 
----
+Java • Spring Boot • PostgreSQL
+Python • Firebase • React
+Vue • AWS S3 • Git • JWT
 
-## tech
+featured projects
 
-```text
-Java        Spring Boot      PostgreSQL
-Python      JavaScript       Firebase
-React       Vue.js           AWS S3
-Git         REST APIs        JWT Auth
-```
+🚀 LMS
+🎨 Background Removal
+🥗 NutriAid
+📝 AI Text Detector
+🌾 Crop Recommendation
 
----
+currently listening to
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+while(code){
+    coffee++;
+}
 
-## featured projects
+connect
 
-🚀 **Learning Management System**
-
-🎨 **Background Removal**
-
-📝 **AI Text Detector**
-
-🌾 **Crop Recommendation System**
-
-🥗 **NutriAid**
-
----
-
-## connect
-
-- 💼 LinkedIn: [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/sahavandana/)
-- 📧 ervandana43@email.com
+LinkedIn
+Email
