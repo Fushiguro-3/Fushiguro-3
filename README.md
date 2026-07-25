@@ -1,74 +1,27 @@
 <div align="center">
 
-# Heyy, I'm Vandana 👋
+# Hey, I'm Vandana 👋
 
-### building products, solving problems, and occasionally breaking them.
-
-backend • full-stack • ai/ml
+*learning, building, and figuring things out one project at a time.*
 
 </div>
 
----
+I'm a final-year AI & ML undergraduate at SDMCET, Dharwad.
 
-## currently
+I enjoy building software that solves real problems—whether it's a web application, a backend service, or a machine learning project.
 
-```java
-public class Vandana {
+### currently
 
-    String role = "Software Engineering Intern";
+- 🌱 Learning Java, Spring Boot & Cloud
+- 💻 Building full-stack and ML projects
+- ☕ Always open to learning something new
 
-    String[] interests = {
-        "Backend Development",
-        "Full Stack",
-        "Machine Learning"
-    };
+Outside of GitHub, you'll probably find me watching anime, discovering new cafés, or rewatching my favorite TV series.
 
-    String currentlyLearning = "Spring Security • AWS • System Design";
+If you'd like to collaborate, chat about tech, or just say hi, feel free to reach out.
 
-}
-```
+📫 **ervandana43@gmail.com**
 
----
-
-## tech
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,firebase,react,vue,git,github,aws,js,html,css,vscode,idea"/>
+<p align="center">
+Thanks for stopping by! 🌸
 </p>
-
----
-
-## what i'm building
-
-🚀 Learning Management System
-
-🎨 AI Background Removal
-
-🥗 NutriAid
-
-📝 AI Text Detector
-
-🌾 Crop Recommendation System
-
-> more in my pinned repositories ↓
-
----
-
-## current focus
-
-- ☕ Java & Spring Boot
-- 🧠 LeetCode
-- ☁️ AWS
-- 🏗️ System Design
-
----
-
-## let's connect
-
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/sahavandana/)">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:ervandana43@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
