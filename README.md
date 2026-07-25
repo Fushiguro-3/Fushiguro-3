@@ -1,6 +1,6 @@
 <div align="center">
 
-# Heyyy, I'm Vandana 👋
+# Heyyy, I'm Vandana 👋🏻
 
 *learning, building, and figuring things out one project at a time.*
 
