@@ -23,5 +23,5 @@ If you'd like to collaborate, chat about tech, or just say hi, feel free to reac
 📫 **ervandana43@gmail.com**
 
 <p align="center">
-Thanks for stopping by! 🌸
+Thanks for stopping by! 🌻
 </p>
